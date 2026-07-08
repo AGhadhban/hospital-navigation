@@ -1,2 +1,3 @@
-# hospital-navigation
-hospital-navigation
+# Welcome to your Lovable project
+
+TODO: Document your project here
